@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 
 
-import profileImg from "./assets/profile.jpg";
+import profileImg from "./assets/Profile.jpg";
 
 
 
